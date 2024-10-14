@@ -1,6 +1,6 @@
 <p align="center">
 
-<h1 align="center">SAMP-FantasyLand 幻想城</h1>
+<h1 align="center">SAMP-RUD队内服</h1>
 
 <p align="center">
 SAMP RUD赛车队内服
