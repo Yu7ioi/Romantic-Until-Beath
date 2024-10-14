@@ -1,0 +1,850 @@
+[22£º14£º14] Long callback execution detected (hang or performance issue)
+[22£º14£º14] AMX backtrace:
+[22£º14£º14] #0 00006178 in ?? (2047956, 2047952) in addobjects.amx
+[22£º14£º14] #1 00005530 in public AddobjectsBegin () in addobjects.amx
+[22£º14£º14] #2 00000080 in public OnFilterScriptInit () in addobjects.amx
+[22£º14£º47] Long callback execution detected (hang or performance issue)
+[22£º14£º47] AMX backtrace:
+[22£º14£º47] #0 00003040 in ?? () in ls_apartments.amx
+[22£º14£º47] #1 000004c0 in public OnFilterScriptInit () in ls_apartments.amx
+[22£º14£º47] Long callback execution detected (hang or performance issue)
+[22£º14£º47] AMX backtrace:
+[22£º14£º47] #0 000003dc in public OnFilterScriptInit () in ls_beachside.amx
+[22£º14£º47] Long callback execution detected (hang or performance issue)
+[22£º14£º47] AMX backtrace:
+[22£º14£º47] #0 0001a408 in ?? () in racespeedtime.amx
+[22£º14£º47] #1 000aaa38 in public SSCANF_OnGameModeInit () in racespeedtime.amx
+[22£º14£º47] #2 0000bfc0 in public FIXES_OnGameModeInit () in racespeedtime.amx
+[22£º14£º47] #3 00003618 in public OnGameModeInit () in racespeedtime.amx
+[22£º14£º49] Long callback execution detected (hang or performance issue)
+[22£º14£º49] AMX backtrace:
+[22£º14£º49] #0 0004daf8 in public UpdateRaceQuery () in racespeedtime.amx
+[22£º15£º55] Long callback execution detected (hang or performance issue)
+[22£º15£º55] AMX backtrace:
+[22£º15£º55] #0 00005eac in ?? (2050012, 2031536, 0, 2147483647) in addobjects.amx
+[22£º15£º55] #1 00005110 in public AddobjectsBegin () in addobjects.amx
+[22£º15£º55] #2 00000080 in public OnFilterScriptInit () in addobjects.amx
+[22£º16£º29] Long callback execution detected (hang or performance issue)
+[22£º16£º29] AMX backtrace:
+[22£º16£º29] #0 00003040 in ?? () in ls_apartments.amx
+[22£º16£º29] #1 000004c0 in public OnFilterScriptInit () in ls_apartments.amx
+[22£º16£º29] Long callback execution detected (hang or performance issue)
+[22£º16£º29] AMX backtrace:
+[22£º16£º29] #0 000003dc in public OnFilterScriptInit () in ls_beachside.amx
+[22£º16£º30] Long callback execution detected (hang or performance issue)
+[22£º16£º30] AMX backtrace:
+[22£º16£º30] #0 0001a408 in ?? () in racespeedtime.amx
+[22£º16£º30] #1 000aaa38 in public SSCANF_OnGameModeInit () in racespeedtime.amx
+[22£º16£º30] #2 0000bfc0 in public FIXES_OnGameModeInit () in racespeedtime.amx
+[22£º16£º30] #3 00003618 in public OnGameModeInit () in racespeedtime.amx
+[22£º16£º30] Long callback execution detected (hang or performance issue)
+[22£º16£º30] AMX backtrace:
+[22£º16£º30] #0 0004c440 in ?? (338) in racespeedtime.amx
+[22£º16£º30] #1 0004dcac in public UpdateRaceQuery () in racespeedtime.amx
+[22£º18£º30] Long callback execution detected (hang or performance issue)
+[22£º18£º30] AMX backtrace:
+[22£º18£º30] #0 000df994 in ?? (8, 0) in racespeedtime.amx
+[22£º18£º30] #1 000abb40 in public FKI_OnPlayerDisconnect (8, 0) in racespeedtime.amx
+[22£º18£º30] #2 000791e8 in public SSCANF_OnPlayerDisconnect (8, 0) in racespeedtime.amx
+[22£º18£º30] #3 0000c0d4 in public TIMERFIX_OnPlayerDisconnect (8, 0) in racespeedtime.amx
+[22£º18£º30] #4 0000b870 in public FIXES_OnPlayerDisconnect (8, 0) in racespeedtime.amx
+[22£º18£º30] #5 000042a0 in public OnPlayerDisconnect (8, 0) in racespeedtime.amx
+[22£º23£º09] Long callback execution detected (hang or performance issue)
+[22£º23£º09] AMX backtrace:
+[22£º23£º09] #0 00018358 in ?? (523284317, 72453976, 72453972, 72453968, 72453964, 72453960, 72453956, 8, 0) in racespeedtime.amx
+[22£º23£º09] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[22£º30£º15] Long callback execution detected (hang or performance issue)
+[22£º30£º15] AMX backtrace:
+[22£º30£º15] #0 00005fbc in ?? (2047956, 2047928) in addobjects.amx
+[22£º30£º15] #1 00001d90 in ?? (2047956) in addobjects.amx
+[22£º30£º15] #2 000055a0 in public AddobjectsBegin () in addobjects.amx
+[22£º30£º15] #3 00000080 in public OnFilterScriptInit () in addobjects.amx
+[22£º30£º48] Long callback execution detected (hang or performance issue)
+[22£º30£º48] AMX backtrace:
+[22£º30£º48] #0 00003040 in ?? () in ls_apartments.amx
+[22£º30£º48] #1 000004c0 in public OnFilterScriptInit () in ls_apartments.amx
+[22£º30£º48] Long callback execution detected (hang or performance issue)
+[22£º30£º48] AMX backtrace:
+[22£º30£º48] #0 000003dc in public OnFilterScriptInit () in ls_beachside.amx
+[22£º30£º49] Long callback execution detected (hang or performance issue)
+[22£º30£º49] AMX backtrace:
+[22£º30£º49] #0 0001a408 in ?? () in racespeedtime.amx
+[22£º30£º49] #1 000aaa38 in public SSCANF_OnGameModeInit () in racespeedtime.amx
+[22£º30£º49] #2 0000bfc0 in public FIXES_OnGameModeInit () in racespeedtime.amx
+[22£º30£º49] #3 00003618 in public OnGameModeInit () in racespeedtime.amx
+[22£º30£º49] Long callback execution detected (hang or performance issue)
+[22£º30£º49] AMX backtrace:
+[22£º30£º49] #0 0004dc44 in public UpdateRaceQuery () in racespeedtime.amx
+[22£º38£º07] Long callback execution detected (hang or performance issue)
+[22£º38£º07] AMX backtrace:
+[22£º38£º07] #0 0007774c in ?? () in racespeedtime.amx
+[22£º38£º07] #1 000aae8c in public FIXES_OnGameModeExit () in racespeedtime.amx
+[22£º38£º07] #2 000037a0 in public OnGameModeExit () in racespeedtime.amx
+[22£º38£º08] Long callback execution detected (hang or performance issue)
+[22£º38£º08] AMX backtrace:
+[22£º38£º08] #0 00002448 in ?? (2047956) in addobjects.amx
+[22£º38£º08] #1 000055a0 in public AddobjectsBegin () in addobjects.amx
+[22£º38£º08] #2 00000080 in public OnFilterScriptInit () in addobjects.amx
+[22£º38£º42] Long callback execution detected (hang or performance issue)
+[22£º38£º42] AMX backtrace:
+[22£º38£º42] #0 00003040 in ?? () in ls_apartments.amx
+[22£º38£º42] #1 000004c0 in public OnFilterScriptInit () in ls_apartments.amx
+[22£º38£º42] Long callback execution detected (hang or performance issue)
+[22£º38£º42] AMX backtrace:
+[22£º38£º42] #0 00000180 in ?? (6401, 1112014848, 1133508769, -993449238, 1102973684) in ls_beachside.amx
+[22£º38£º42] #1 00002380 in ?? (0) in ls_beachside.amx
+[22£º38£º42] #2 00001cb0 in ?? () in ls_beachside.amx
+[22£º38£º42] #3 0000035c in public OnFilterScriptInit () in ls_beachside.amx
+[22£º38£º42] Long callback execution detected (hang or performance issue)
+[22£º38£º42] AMX backtrace:
+[22£º38£º42] #0 0001a408 in ?? () in racespeedtime.amx
+[22£º38£º42] #1 000aaa38 in public SSCANF_OnGameModeInit () in racespeedtime.amx
+[22£º38£º42] #2 0000bfc0 in public FIXES_OnGameModeInit () in racespeedtime.amx
+[22£º38£º42] #3 00003618 in public OnGameModeInit () in racespeedtime.amx
+[22£º38£º43] Long callback execution detected (hang or performance issue)
+[22£º38£º43] AMX backtrace:
+[22£º38£º43] #0 0004d9b4 in public UpdateRaceQuery () in racespeedtime.amx
+[22£º42£º37] Long callback execution detected (hang or performance issue)
+[22£º42£º37] AMX backtrace:
+[22£º42£º37] #0 00018074 in ?? (72446232) in racespeedtime.amx
+[22£º42£º37] #1 000611d8 in ?? (72453940, 8) in racespeedtime.amx
+[22£º42£º37] #2 0006ec50 in public cmd_houseedit (8, 72334704) in racespeedtime.amx
+[22£º42£º37] #3 native CallLocalFunction () in samp-server.exe
+[22£º42£º37] #4 0000bad8 in public OnPlayerCommandText (8, 72334524) in racespeedtime.amx
+[02£º33£º18] Long callback execution detected (hang or performance issue)
+[02£º33£º18] AMX backtrace:
+[02£º33£º18] #0 000a23fc in public FIXES_OnPlayerUpdate (7) in racespeedtime.amx
+[02£º33£º18] #1 00006780 in public OnPlayerUpdate (7) in racespeedtime.amx
+[02£º48£º42] Long callback execution detected (hang or performance issue)
+[02£º48£º42] AMX backtrace:
+[02£º48£º42] #0 000183c0 in ?? (1122991730, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º48£º42] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[08£º09£º07] Long callback execution detected (hang or performance issue)
+[08£º09£º07] AMX backtrace:
+[08£º09£º07] #0 00018310 in ?? (1973) in racespeedtime.amx
+[08£º09£º07] #1 000183a8 in ?? (1627829027, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[08£º09£º07] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[09£º24£º32] Long callback execution detected (hang or performance issue)
+[09£º24£º32] AMX backtrace:
+[09£º24£º32] #0 00018418 in ?? (1312473570, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[09£º24£º32] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[10£º49£º57] Long callback execution detected (hang or performance issue)
+[10£º49£º57] AMX backtrace:
+[10£º49£º57] #0 000a94c8 in ?? (2) in racespeedtime.amx
+[10£º49£º57] #1 000a9fd4 in public update_Monument_Act () in racespeedtime.amx
+[12£º57£º40] Long callback execution detected (hang or performance issue)
+[12£º57£º40] AMX backtrace:
+[12£º57£º40] #0 000a26e0 in ?? (1) in racespeedtime.amx
+[12£º57£º40] #1 000c0154 in public FIXES_OnPlayerUpdate (1) in racespeedtime.amx
+[12£º57£º40] #2 00006780 in public OnPlayerUpdate (1) in racespeedtime.amx
+[14£º18£º17] Long callback execution detected (hang or performance issue)
+[14£º18£º17] AMX backtrace:
+[14£º18£º17] #0 00018558 in ?? (13120866, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[14£º18£º17] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[14£º27£º03] Long callback execution detected (hang or performance issue)
+[14£º27£º03] AMX backtrace:
+[14£º27£º03] #0 000c3bf4 in public OnPlayerRegister (8, 72334552) in racespeedtime.amx
+[14£º27£º03] #1 000d7064 in public dialog_Dialog_Register (8, 1, -1, 72334552) in racespeedtime.amx
+[14£º27£º03] #2 native CallLocalFunction () in samp-server.exe
+[14£º27£º03] #3 00016e1c in public FIXES_OnDialogResponse (8, 32700, 1, -1, 72334524) in racespeedtime.amx
+[14£º27£º03] #4 00009730 in public OnDialogResponse (8, 32700, 1, -1, 72334524) in racespeedtime.amx
+[14£º27£º03] Run time error 4: "Array index out of bounds"
+[14£º27£º03]  Attempted to read/write array element at index 72334524 in array of size 1000
+[14£º27£º03] AMX backtrace:
+[14£º27£º03] #0 000c4048 in public pRegisterInsert (72334524) in racespeedtime.amx
+[21£º37£º02] Long callback execution detected (hang or performance issue)
+[21£º37£º02] AMX backtrace:
+[21£º37£º02] #0 000aa0d0 in ?? (3) in racespeedtime.amx
+[21£º37£º02] #1 000a960c in ?? (2) in racespeedtime.amx
+[21£º37£º02] #2 000a9fd4 in public update_Monument_Act () in racespeedtime.amx
+[21£º44£º07] Long callback execution detected (hang or performance issue)
+[21£º44£º07] AMX backtrace:
+[21£º44£º07] #0 00018358 in ?? (870451813, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[21£º44£º07] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[22£º06£º12] Long callback execution detected (hang or performance issue)
+[22£º06£º12] AMX backtrace:
+[22£º06£º12] #0 0001838c in ?? (838915813, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[22£º06£º12] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º14£º07] Long callback execution detected (hang or performance issue)
+[02£º14£º07] AMX backtrace:
+[02£º14£º07] #0 0001838c in ?? (18314143, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º14£º07] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º47£º02] Long callback execution detected (hang or performance issue)
+[03£º47£º02] AMX backtrace:
+[03£º47£º02] #0 00018398 in ?? (176096693, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º47£º02] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º54£º32] Long callback execution detected (hang or performance issue)
+[03£º54£º32] AMX backtrace:
+[03£º54£º32] #0 000182f4 in ?? (2005) in racespeedtime.amx
+[03£º54£º32] #1 000183a8 in ?? (618479885, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º54£º32] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[05£º50£º22] Long callback execution detected (hang or performance issue)
+[05£º50£º22] AMX backtrace:
+[05£º50£º22] #0 0001840c in ?? (901943930, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[05£º50£º22] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[06£º01£º12] Long callback execution detected (hang or performance issue)
+[06£º01£º12] AMX backtrace:
+[06£º01£º12] #0 00018504 in ?? (10771170, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[06£º01£º12] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[09£º11£º53] Long callback execution detected (hang or performance issue)
+[09£º11£º53] AMX backtrace:
+[09£º11£º53] #0 00006168 in public OnPlayerUpdate (0) in racespeedtime.amx
+[09£º21£º12] Long callback execution detected (hang or performance issue)
+[09£º21£º12] AMX backtrace:
+[09£º21£º12] #0 00018318 in ?? (1983) in racespeedtime.amx
+[09£º21£º12] #1 000183a8 in ?? (1312211744, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[09£º21£º12] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[10£º06£º12] Long callback execution detected (hang or performance issue)
+[10£º06£º12] AMX backtrace:
+[10£º06£º12] #0 00018420 in ?? (1407538063, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[10£º06£º12] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[13£º57£º52] Long callback execution detected (hang or performance issue)
+[13£º57£º52] AMX backtrace:
+[13£º57£º52] #0 000183d0 in ?? (81959482, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[13£º57£º52] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[14£º36£º12] Long callback execution detected (hang or performance issue)
+[14£º36£º12] AMX backtrace:
+[14£º36£º12] #0 00018414 in ?? (1091870247, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[14£º36£º12] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[16£º53£º42] Long callback execution detected (hang or performance issue)
+[16£º53£º42] AMX backtrace:
+[16£º53£º42] #0 00018308 in ?? (2009) in racespeedtime.amx
+[16£º53£º42] #1 000183a8 in ?? (491755427, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[16£º53£º42] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[16£º59£º57] Long callback execution detected (hang or performance issue)
+[16£º59£º57] AMX backtrace:
+[16£º59£º57] #0 000183d4 in ?? (1659945485, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[16£º59£º57] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[20£º04£º40] Long callback execution detected (hang or performance issue)
+[20£º04£º40] AMX backtrace:
+[20£º04£º40] #0 00000dac in ?? (0) in racespeedtime.amx
+[20£º04£º40] #1 000cbde4 in public SecondsTimer () in racespeedtime.amx
+[20£º14£º57] Long callback execution detected (hang or performance issue)
+[20£º14£º57] AMX backtrace:
+[20£º14£º57] #0 00018370 in ?? (1690836066, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[20£º14£º57] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[20£º20£º22] Long callback execution detected (hang or performance issue)
+[20£º20£º22] AMX backtrace:
+[20£º20£º22] #0 000185fc in ?? (57570, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[20£º20£º22] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[20£º21£º37] Long callback execution detected (hang or performance issue)
+[20£º21£º37] AMX backtrace:
+[20£º21£º37] #0 00018320 in ?? (2011) in racespeedtime.amx
+[20£º21£º37] #1 000183a8 in ?? (428686865, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[20£º21£º37] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[20£º22£º27] Long callback execution detected (hang or performance issue)
+[20£º22£º27] AMX backtrace:
+[20£º22£º27] #0 00018398 in ?? (1501472693, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[20£º22£º27] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[20£º25£º47] Long callback execution detected (hang or performance issue)
+[20£º25£º47] AMX backtrace:
+[20£º25£º47] #0 000184f4 in ?? (5762536, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[20£º25£º47] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[20£º27£º27] Long callback execution detected (hang or performance issue)
+[20£º27£º27] AMX backtrace:
+[20£º27£º27] #0 00018414 in ?? (933603651, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[20£º27£º27] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[21£º15£º47] Long callback execution detected (hang or performance issue)
+[21£º15£º47] AMX backtrace:
+[21£º15£º47] #0 00018380 in ?? (460219427, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[21£º15£º47] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[21£º52£º04] Long callback execution detected (hang or performance issue)
+[21£º52£º04] AMX backtrace:
+[21£º52£º04] #0 000c02a8 in public FIXES_OnPlayerUpdate (3) in racespeedtime.amx
+[21£º52£º04] #1 00006780 in public OnPlayerUpdate (3) in racespeedtime.amx
+[00£º00£º47] Long callback execution detected (hang or performance issue)
+[00£º00£º47] AMX backtrace:
+[00£º00£º47] #0 000186ec in ?? (2490, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[00£º00£º47] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[04£º15£º47] Long callback execution detected (hang or performance issue)
+[04£º15£º47] AMX backtrace:
+[04£º15£º47] #0 00018548 in ?? (18460917, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[04£º15£º47] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[05£º37£º27] Long callback execution detected (hang or performance issue)
+[05£º37£º27] AMX backtrace:
+[05£º37£º27] #0 00018420 in ?? (49866293, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[05£º37£º27] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[07£º52£º02] Long callback execution detected (hang or performance issue)
+[07£º52£º02] AMX backtrace:
+[07£º52£º02] #0 000184f0 in ?? (15626466, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[07£º52£º02] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[09£º14£º57] Long callback execution detected (hang or performance issue)
+[09£º14£º57] AMX backtrace:
+[09£º14£º57] #0 000182ec in ?? (1992) in racespeedtime.amx
+[09£º14£º57] #1 000183a8 in ?? (1028299924, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[09£º14£º57] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[10£º41£º12] Long callback execution detected (hang or performance issue)
+[10£º41£º12] AMX backtrace:
+[10£º41£º12] #0 00018374 in ?? (870362144, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[10£º41£º12] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[11£º50£º40] Long callback execution detected (hang or performance issue)
+[11£º50£º40] AMX backtrace:
+[11£º50£º40] #0 000c5e00 in public updateSpeedometer () in racespeedtime.amx
+[12£º44£º55] Long callback execution detected (hang or performance issue)
+[12£º44£º55] AMX backtrace:
+[12£º44£º55] #0 0000652c in public OnPlayerUpdate (2) in racespeedtime.amx
+[12£º57£º27] Long callback execution detected (hang or performance issue)
+[12£º57£º27] AMX backtrace:
+[12£º57£º27] #0 000182f8 in ?? (1998) in racespeedtime.amx
+[12£º57£º27] #1 000183a8 in ?? (839487815, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[12£º57£º27] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[14£º08£º17] Long callback execution detected (hang or performance issue)
+[14£º08£º17] AMX backtrace:
+[14£º08£º17] #0 000183a0 in ?? (1533652298, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[14£º08£º17] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[15£º39£º57] Long callback execution detected (hang or performance issue)
+[15£º39£º57] AMX backtrace:
+[15£º39£º57] #0 00018370 in ?? (1659890536, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[15£º39£º57] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[17£º35£º47] Long callback execution detected (hang or performance issue)
+[17£º35£º47] AMX backtrace:
+[17£º35£º47] #0 00018428 in ?? (460731811, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[17£º35£º47] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[17£º51£º21] Long callback execution detected (hang or performance issue)
+[17£º51£º21] AMX backtrace:
+[17£º51£º21] #0 000c5dd4 in public updateSpeedometer () in racespeedtime.amx
+[23£º48£º40] Long callback execution detected (hang or performance issue)
+[23£º48£º40] AMX backtrace:
+[23£º48£º40] #0 00000d80 in ?? (1) in racespeedtime.amx
+[23£º48£º40] #1 000cbde4 in public SecondsTimer () in racespeedtime.amx
+[00£º21£º12] Long callback execution detected (hang or performance issue)
+[00£º21£º12] AMX backtrace:
+[00£º21£º12] #0 000183b8 in ?? (523377827, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[00£º21£º12] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[01£º03£º42] Long callback execution detected (hang or performance issue)
+[01£º03£º42] AMX backtrace:
+[01£º03£º42] #0 000182b8 in ?? (1978) in racespeedtime.amx
+[01£º03£º42] #1 000183a8 in ?? (1469969117, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[01£º03£º42] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[01£º12£º27] Long callback execution detected (hang or performance issue)
+[01£º12£º27] AMX backtrace:
+[01£º12£º27] #0 000183e4 in ?? (1154396440, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[01£º12£º27] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[01£º49£º40] Long callback execution detected (hang or performance issue)
+[01£º49£º40] AMX backtrace:
+[01£º49£º40] #0 000a1b20 in ?? (4) in racespeedtime.amx
+[01£º49£º40] #1 000bf030 in public FIXES_OnPlayerKeyStateChange (4, 12, 4) in racespeedtime.amx
+[01£º49£º40] #2 00006d90 in public OnPlayerKeyStateChange (4, 12, 4) in racespeedtime.amx
+[01£º51£º12] Long callback execution detected (hang or performance issue)
+[01£º51£º12] AMX backtrace:
+[01£º51£º12] #0 000183d4 in ?? (144597984, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[01£º51£º12] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[01£º56£º37] Long callback execution detected (hang or performance issue)
+[01£º56£º37] AMX backtrace:
+[01£º56£º37] #0 000184c0 in ?? (56465, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[01£º56£º37] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[01£º57£º27] Long callback execution detected (hang or performance issue)
+[01£º57£º27] AMX backtrace:
+[01£º57£º27] #0 000182b8 in ?? (1998) in racespeedtime.amx
+[01£º57£º27] #1 000183a8 in ?? (838915813, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[01£º57£º27] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[01£º59£º07] Long callback execution detected (hang or performance issue)
+[01£º59£º07] AMX backtrace:
+[01£º59£º07] #0 000183dc in ?? (1280608866, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[01£º59£º07] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[01£º59£º57] Long callback execution detected (hang or performance issue)
+[01£º59£º57] AMX backtrace:
+[01£º59£º57] #0 000182f8 in ?? (2006) in racespeedtime.amx
+[01£º59£º57] #1 000183a8 in ?? (586881082, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[01£º59£º57] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º10£º22] Long callback execution detected (hang or performance issue)
+[02£º10£º22] AMX backtrace:
+[02£º10£º22] #0 000182bc in ?? (1977) in racespeedtime.amx
+[02£º10£º22] #1 000183a8 in ?? (1501465240, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º10£º22] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º19£º32] Long callback execution detected (hang or performance issue)
+[02£º19£º32] AMX backtrace:
+[02£º19£º32] #0 000183c0 in ?? (460086040, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º19£º32] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º22£º02] Long callback execution detected (hang or performance issue)
+[02£º22£º02] AMX backtrace:
+[02£º22£º02] #0 000182a0 in ?? (2024) in racespeedtime.amx
+[02£º22£º02] #1 000184dc in ?? (2606341, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º22£º02] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º22£º52] Long callback execution detected (hang or performance issue)
+[02£º22£º52] AMX backtrace:
+[02£º22£º52] #0 000182a0 in ?? (2018) in racespeedtime.amx
+[02£º22£º52] #1 000183a8 in ?? (207664837, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º22£º52] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º23£º21] Long callback execution detected (hang or performance issue)
+[02£º23£º21] AMX backtrace:
+[02£º23£º21] #0 000a2414 in ?? (7) in racespeedtime.amx
+[02£º23£º21] #1 000c0154 in public FIXES_OnPlayerUpdate (7) in racespeedtime.amx
+[02£º23£º21] #2 00006780 in public OnPlayerUpdate (7) in racespeedtime.amx
+[02£º24£º57] Long callback execution detected (hang or performance issue)
+[02£º24£º57] AMX backtrace:
+[02£º24£º57] #0 00018414 in ?? (1659325493, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º24£º57] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º25£º47] Long callback execution detected (hang or performance issue)
+[02£º25£º47] AMX backtrace:
+[02£º25£º47] #0 00018300 in ?? (1970) in racespeedtime.amx
+[02£º25£º47] #1 000183a8 in ?? (1722957852, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º25£º47] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º26£º12] Long callback execution detected (hang or performance issue)
+[02£º26£º12] AMX backtrace:
+[02£º26£º12] #0 0001838c in ?? (901935640, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º26£º12] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º26£º37] Long callback execution detected (hang or performance issue)
+[02£º26£º37] AMX backtrace:
+[02£º26£º37] #0 00018414 in ?? (397661104, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º26£º37] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º28£º42] Long callback execution detected (hang or performance issue)
+[02£º28£º42] AMX backtrace:
+[02£º28£º42] #0 0001829c in ?? (714, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º28£º42] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º29£º32] Long callback execution detected (hang or performance issue)
+[02£º29£º32] AMX backtrace:
+[02£º29£º32] #0 00018418 in ?? (1596208544, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º29£º32] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º29£º57] Long callback execution detected (hang or performance issue)
+[02£º29£º57] AMX backtrace:
+[02£º29£º57] #0 000182b4 in ?? (2024) in racespeedtime.amx
+[02£º29£º57] #1 000184dc in ?? (2580066, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º29£º57] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º31£º37] Long callback execution detected (hang or performance issue)
+[02£º31£º37] AMX backtrace:
+[02£º31£º37] #0 000182ac in ?? (1993) in racespeedtime.amx
+[02£º31£º37] #1 000183a8 in ?? (996551930, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º31£º37] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º32£º27] Long callback execution detected (hang or performance issue)
+[02£º32£º27] AMX backtrace:
+[02£º32£º27] #0 000183d0 in ?? (18367584, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º32£º27] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º33£º25] Long callback execution detected (hang or performance issue)
+[02£º33£º25] AMX backtrace:
+[02£º33£º25] #0 000a2464 in ?? (4) in racespeedtime.amx
+[02£º33£º25] #1 000c0154 in public FIXES_OnPlayerUpdate (4) in racespeedtime.amx
+[02£º33£º25] #2 00006780 in public OnPlayerUpdate (4) in racespeedtime.amx
+[02£º33£º42] Long callback execution detected (hang or performance issue)
+[02£º33£º42] AMX backtrace:
+[02£º33£º42] #0 00018380 in ?? (429195811, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º33£º42] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º34£º34] Long callback execution detected (hang or performance issue)
+[02£º34£º34] AMX backtrace:
+[02£º34£º34] #0 000c0f44 in public FIXES_OnPlayerUpdate (0) in racespeedtime.amx
+[02£º34£º34] #1 00006780 in public OnPlayerUpdate (0) in racespeedtime.amx
+[02£º36£º12] Long callback execution detected (hang or performance issue)
+[02£º36£º12] AMX backtrace:
+[02£º36£º12] #0 000183b0 in ?? (18304516, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º36£º12] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º36£º37] Long callback execution detected (hang or performance issue)
+[02£º36£º37] AMX backtrace:
+[02£º36£º37] #0 00018334 in ?? (1987) in racespeedtime.amx
+[02£º36£º37] #1 000183a8 in ?? (1185936849, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º36£º37] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º39£º07] Long callback execution detected (hang or performance issue)
+[02£º39£º07] AMX backtrace:
+[02£º39£º07] #0 00018404 in ?? (554917265, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º39£º07] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º39£º32] Long callback execution detected (hang or performance issue)
+[02£º39£º32] AMX backtrace:
+[02£º39£º32] #0 00018404 in ?? (870960304, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º39£º32] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º39£º57] Long callback execution detected (hang or performance issue)
+[02£º39£º57] AMX backtrace:
+[02£º39£º57] #0 00018394 in ?? (650047336, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º39£º57] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º41£º37] Long callback execution detected (hang or performance issue)
+[02£º41£º37] AMX backtrace:
+[02£º41£º37] #0 000182f8 in ?? (2007) in racespeedtime.amx
+[02£º41£º37] #1 000183a8 in ?? (554917265, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º41£º37] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º42£º02] Long callback execution detected (hang or performance issue)
+[02£º42£º02] AMX backtrace:
+[02£º42£º02] #0 000183c8 in ?? (113503336, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º42£º02] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º42£º27] Long callback execution detected (hang or performance issue)
+[02£º42£º27] AMX backtrace:
+[02£º42£º27] #0 0001832c in ?? (2024) in racespeedtime.amx
+[02£º42£º27] #1 000184dc in ?? (18362437, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º42£º27] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º42£º52] Long callback execution detected (hang or performance issue)
+[02£º42£º52] AMX backtrace:
+[02£º42£º52] #0 000182ac in ?? (2015) in racespeedtime.amx
+[02£º42£º52] #1 000183a8 in ?? (302630370, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º42£º52] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º44£º07] Long callback execution detected (hang or performance issue)
+[02£º44£º07] AMX backtrace:
+[02£º44£º07] #0 000183d4 in ?? (586454517, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º44£º07] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º44£º35] Long callback execution detected (hang or performance issue)
+[02£º44£º35] AMX backtrace:
+[02£º44£º35] #0 000a2810 in ?? (0, 1) in racespeedtime.amx
+[02£º44£º35] #1 000bf05c in public FIXES_OnPlayerKeyStateChange (0, 12, 4) in racespeedtime.amx
+[02£º44£º35] #2 00006d90 in public OnPlayerKeyStateChange (0, 12, 4) in racespeedtime.amx
+[02£º45£º32] Long callback execution detected (hang or performance issue)
+[02£º45£º32] AMX backtrace:
+[02£º45£º32] #0 000c02a8 in public FIXES_OnPlayerUpdate (0) in racespeedtime.amx
+[02£º45£º32] #1 00006780 in public OnPlayerUpdate (0) in racespeedtime.amx
+[02£º46£º12] Long callback execution detected (hang or performance issue)
+[02£º46£º12] AMX backtrace:
+[02£º46£º12] #0 000182a0 in ?? (1975) in racespeedtime.amx
+[02£º46£º12] #1 000183a8 in ?? (1564937607, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º46£º12] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º46£º37] Long callback execution detected (hang or performance issue)
+[02£º46£º37] AMX backtrace:
+[02£º46£º37] #0 000182b4 in ?? (1992) in racespeedtime.amx
+[02£º46£º37] #1 000183a8 in ?? (1028813104, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º46£º37] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º47£º27] Long callback execution detected (hang or performance issue)
+[02£º47£º27] AMX backtrace:
+[02£º47£º27] #0 000183c8 in ?? (1469969117, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º47£º27] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º48£º17] Long callback execution detected (hang or performance issue)
+[02£º48£º17] AMX backtrace:
+[02£º48£º17] #0 000183e4 in ?? (586316440, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º48£º17] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º49£º07] Long callback execution detected (hang or performance issue)
+[02£º49£º07] AMX backtrace:
+[02£º49£º07] #0 000183a0 in ?? (1250663223, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º49£º07] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º50£º22] Long callback execution detected (hang or performance issue)
+[02£º50£º22] AMX backtrace:
+[02£º50£º22] #0 0001838c in ?? (1375881904, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[02£º50£º22] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[02£º51£º40] Long callback execution detected (hang or performance issue)
+[02£º51£º40] AMX backtrace:
+[02£º51£º40] #0 000c02c8 in public FIXES_OnPlayerUpdate (6) in racespeedtime.amx
+[02£º51£º40] #1 00006780 in public OnPlayerUpdate (6) in racespeedtime.amx
+[02£º52£º02] Long callback execution detected (hang or performance issue)
+[02£º52£º02] AMX backtrace:
+[02£º52£º02] #0 000182a0 in ?? (1999) in racespeedtime.amx
+[02£º52£º02] #1 000183a8 in ?? (807289914, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º52£º02] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º52£º27] Long callback execution detected (hang or performance issue)
+[02£º52£º27] AMX backtrace:
+[02£º52£º27] #0 00018310 in ?? (1989) in racespeedtime.amx
+[02£º52£º27] #1 000183a8 in ?? (1122781493, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º52£º27] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º53£º42] Long callback execution detected (hang or performance issue)
+[02£º53£º42] AMX backtrace:
+[02£º53£º42] #0 00018318 in ?? (2018) in racespeedtime.amx
+[02£º53£º42] #1 000183a8 in ?? (207632693, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º53£º42] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º55£º47] Long callback execution detected (hang or performance issue)
+[02£º55£º47] AMX backtrace:
+[02£º55£º47] #0 000183dc in ?? (1659299716, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º55£º47] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º56£º37] Long callback execution detected (hang or performance issue)
+[02£º56£º37] AMX backtrace:
+[02£º56£º37] #0 000183d4 in ?? (1375372917, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º56£º37] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º57£º02] Long callback execution detected (hang or performance issue)
+[02£º57£º02] AMX backtrace:
+[02£º57£º02] #0 00018320 in ?? (2005) in racespeedtime.amx
+[02£º57£º02] #1 000183a8 in ?? (618070130, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º57£º02] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[02£º58£º17] Long callback execution detected (hang or performance issue)
+[02£º58£º17] AMX backtrace:
+[02£º58£º17] #0 000a9de4 in public update_Monument_Act () in racespeedtime.amx
+[02£º59£º32] Long callback execution detected (hang or performance issue)
+[02£º59£º32] AMX backtrace:
+[02£º59£º32] #0 000183b8 in ?? (18633570, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[02£º59£º32] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º00£º47] Long callback execution detected (hang or performance issue)
+[03£º00£º47] AMX backtrace:
+[03£º00£º47] #0 00018394 in ?? (1186071013, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º00£º47] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º01£º12] Long callback execution detected (hang or performance issue)
+[03£º01£º12] AMX backtrace:
+[03£º01£º12] #0 0001837c in ?? (428554449, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º01£º12] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º02£º27] Long callback execution detected (hang or performance issue)
+[03£º02£º27] AMX backtrace:
+[03£º02£º27] #0 00018370 in ?? (1406906144, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º02£º27] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º02£º52] Long callback execution detected (hang or performance issue)
+[03£º02£º52] AMX backtrace:
+[03£º02£º52] #0 000aa0a4 in ?? (3) in racespeedtime.amx
+[03£º02£º52] #1 000a960c in ?? (2) in racespeedtime.amx
+[03£º02£º52] #2 000a9fd4 in public update_Monument_Act () in racespeedtime.amx
+[03£º03£º17] Long callback execution detected (hang or performance issue)
+[03£º03£º17] AMX backtrace:
+[03£º03£º17] #0 000a9dfc in public update_Monument_Act () in racespeedtime.amx
+[03£º03£º42] Long callback execution detected (hang or performance issue)
+[03£º03£º42] AMX backtrace:
+[03£º03£º42] #0 000182c4 in ?? (2000) in racespeedtime.amx
+[03£º03£º42] #1 000183a8 in ?? (776386063, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º03£º42] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º05£º18] Long callback execution detected (hang or performance issue)
+[03£º05£º18] AMX backtrace:
+[03£º05£º18] #0 00000938 in ?? (-962838528, -1019857190) in racespeedtime.amx
+[03£º05£º18] #1 000062fc in public OnPlayerUpdate (6) in racespeedtime.amx
+[03£º05£º22] Long callback execution detected (hang or performance issue)
+[03£º05£º22] AMX backtrace:
+[03£º05£º22] #0 00018418 in ?? (1469977914, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º05£º22] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º05£º38] Long callback execution detected (hang or performance issue)
+[03£º05£º38] AMX backtrace:
+[03£º05£º38] #0 00006520 in public OnPlayerUpdate (0) in racespeedtime.amx
+[03£º05£º47] Long callback execution detected (hang or performance issue)
+[03£º05£º47] AMX backtrace:
+[03£º05£º47] #0 000a9a00 in public update_Monument_Act () in racespeedtime.amx
+[03£º07£º27] Long callback execution detected (hang or performance issue)
+[03£º07£º27] AMX backtrace:
+[03£º07£º27] #0 000183dc in ?? (1028147716, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º07£º27] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º08£º17] Long callback execution detected (hang or performance issue)
+[03£º08£º17] AMX backtrace:
+[03£º08£º17] #0 00018380 in ?? (1028876615, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º08£º17] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º10£º47] Long callback execution detected (hang or performance issue)
+[03£º10£º47] AMX backtrace:
+[03£º10£º47] #0 00018324 in ?? (1994) in racespeedtime.amx
+[03£º10£º47] #1 000183a8 in ?? (965575452, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º10£º47] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º11£º09] Long callback execution detected (hang or performance issue)
+[03£º11£º09] AMX backtrace:
+[03£º11£º09] #0 000c0168 in public FIXES_OnPlayerUpdate (7) in racespeedtime.amx
+[03£º11£º09] #1 00006780 in public OnPlayerUpdate (7) in racespeedtime.amx
+[03£º11£º12] Long callback execution detected (hang or performance issue)
+[03£º11£º12] AMX backtrace:
+[03£º11£º12] #0 00018420 in ?? (744647498, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º11£º12] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º14£º15] Long callback execution detected (hang or performance issue)
+[03£º14£º15] AMX backtrace:
+[03£º14£º15] #0 000a27d4 in ?? (6, 1) in racespeedtime.amx
+[03£º14£º15] #1 000bf05c in public FIXES_OnPlayerKeyStateChange (6, 140, 12) in racespeedtime.amx
+[03£º14£º15] #2 00006d90 in public OnPlayerKeyStateChange (6, 140, 12) in racespeedtime.amx
+[03£º16£º37] Long callback execution detected (hang or performance issue)
+[03£º16£º37] AMX backtrace:
+[03£º16£º37] #0 000182a0 in ?? (1976) in racespeedtime.amx
+[03£º16£º37] #1 000183a8 in ?? (1533132384, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º16£º37] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º17£º59] Long callback execution detected (hang or performance issue)
+[03£º17£º59] AMX backtrace:
+[03£º17£º59] #0 000c5d9c in public updateSpeedometer () in racespeedtime.amx
+[03£º18£º42] Long callback execution detected (hang or performance issue)
+[03£º18£º42] AMX backtrace:
+[03£º18£º42] #0 00018370 in ?? (1312202437, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º18£º42] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º19£º07] Long callback execution detected (hang or performance issue)
+[03£º19£º07] AMX backtrace:
+[03£º19£º07] #0 000184b8 in ?? (13183584, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º19£º07] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º19£º14] Long callback execution detected (hang or performance issue)
+[03£º19£º14] AMX backtrace:
+[03£º19£º14] #0 000a2784 in ?? (2, 1) in racespeedtime.amx
+[03£º19£º14] #1 000bf05c in public FIXES_OnPlayerKeyStateChange (2, 4, 36) in racespeedtime.amx
+[03£º19£º14] #2 00006d90 in public OnPlayerKeyStateChange (2, 4, 36) in racespeedtime.amx
+[03£º19£º32] Long callback execution detected (hang or performance issue)
+[03£º19£º32] AMX backtrace:
+[03£º19£º32] #0 000184c8 in ?? (51651, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º19£º32] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º23£º12] Long callback execution detected (hang or performance issue)
+[03£º23£º12] AMX backtrace:
+[03£º23£º12] #0 000c0f3c in public FIXES_OnPlayerUpdate (1) in racespeedtime.amx
+[03£º23£º12] #1 00006780 in public OnPlayerUpdate (1) in racespeedtime.amx
+[03£º23£º17] Long callback execution detected (hang or performance issue)
+[03£º23£º17] AMX backtrace:
+[03£º23£º17] #0 000182a0 in ?? (2013) in racespeedtime.amx
+[03£º23£º17] #1 000183a8 in ?? (365399093, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º23£º17] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º24£º53] Long callback execution detected (hang or performance issue)
+[03£º24£º53] AMX backtrace:
+[03£º24£º53] #0 000a26d8 in ?? (4) in racespeedtime.amx
+[03£º24£º53] #1 000c0154 in public FIXES_OnPlayerUpdate (4) in racespeedtime.amx
+[03£º24£º53] #2 00006780 in public OnPlayerUpdate (4) in racespeedtime.amx
+[03£º24£º57] Long callback execution detected (hang or performance issue)
+[03£º24£º57] AMX backtrace:
+[03£º24£º57] #0 0001832c in ?? (1976) in racespeedtime.amx
+[03£º24£º57] #1 000183a8 in ?? (1533224465, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º24£º57] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º26£º12] Long callback execution detected (hang or performance issue)
+[03£º26£º12] AMX backtrace:
+[03£º26£º12] #0 000183d0 in ?? (461744823, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º26£º12] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º27£º02] Long callback execution detected (hang or performance issue)
+[03£º27£º02] AMX backtrace:
+[03£º27£º02] #0 00018428 in ?? (1564672544, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º27£º02] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º29£º07] Long callback execution detected (hang or performance issue)
+[03£º29£º07] AMX backtrace:
+[03£º29£º07] #0 00018398 in ?? (428557493, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º29£º07] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º29£º48] Long callback execution detected (hang or performance issue)
+[03£º29£º48] AMX backtrace:
+[03£º29£º48] #0 00000dd4 in ?? (3) in racespeedtime.amx
+[03£º29£º48] #1 000cbde4 in public SecondsTimer () in racespeedtime.amx
+[03£º30£º22] Long callback execution detected (hang or performance issue)
+[03£º30£º22] AMX backtrace:
+[03£º30£º22] #0 000183d4 in ?? (1154445344, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º30£º22] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º31£º12] Long callback execution detected (hang or performance issue)
+[03£º31£º12] AMX backtrace:
+[03£º31£º12] #0 00018404 in ?? (1406989251, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º31£º12] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º31£º37] Long callback execution detected (hang or performance issue)
+[03£º31£º37] AMX backtrace:
+[03£º31£º37] #0 000a97b8 in ?? (0) in racespeedtime.amx
+[03£º31£º37] #1 000a9fd4 in public update_Monument_Act () in racespeedtime.amx
+[03£º33£º17] Long callback execution detected (hang or performance issue)
+[03£º33£º17] AMX backtrace:
+[03£º33£º17] #0 00018398 in ?? (998203104, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º33£º17] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º35£º47] Long callback execution detected (hang or performance issue)
+[03£º35£º47] AMX backtrace:
+[03£º35£º47] #0 000183d4 in ?? (838821984, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º35£º47] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º37£º27] Long callback execution detected (hang or performance issue)
+[03£º37£º27] AMX backtrace:
+[03£º37£º27] #0 000183c8 in ?? (1186643015, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º37£º27] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º37£º52] Long callback execution detected (hang or performance issue)
+[03£º37£º52] AMX backtrace:
+[03£º37£º52] #0 000183a8 in ?? (1690835716, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º37£º52] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º38£º16] Long callback execution detected (hang or performance issue)
+[03£º38£º16] AMX backtrace:
+[03£º38£º16] #0 00006780 in public OnPlayerUpdate (4) in racespeedtime.amx
+[03£º38£º17] Long callback execution detected (hang or performance issue)
+[03£º38£º17] AMX backtrace:
+[03£º38£º17] #0 000183dc in ?? (649846347, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º38£º17] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º38£º42] Long callback execution detected (hang or performance issue)
+[03£º38£º42] AMX backtrace:
+[03£º38£º42] #0 000182f4 in ?? (2017) in racespeedtime.amx
+[03£º38£º42] #1 000183a8 in ?? (239143238, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º38£º42] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º39£º07] Long callback execution detected (hang or performance issue)
+[03£º39£º07] AMX backtrace:
+[03£º39£º07] #0 00018320 in ?? (1998) in racespeedtime.amx
+[03£º39£º07] #1 000183a8 in ?? (838759215, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º39£º07] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º40£º22] Long callback execution detected (hang or performance issue)
+[03£º40£º22] AMX backtrace:
+[03£º40£º22] #0 00018308 in ?? (1979) in racespeedtime.amx
+[03£º40£º22] #1 000183a8 in ?? (1438704053, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º40£º22] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º41£º37] Long callback execution detected (hang or performance issue)
+[03£º41£º37] AMX backtrace:
+[03£º41£º37] #0 00018308 in ?? (2006) in racespeedtime.amx
+[03£º41£º37] #1 000183a8 in ?? (586454517, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º41£º37] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º42£º27] Long callback execution detected (hang or performance issue)
+[03£º42£º27] AMX backtrace:
+[03£º42£º27] #0 000182f8 in ?? (1996) in racespeedtime.amx
+[03£º42£º27] #1 000183a8 in ?? (901943093, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º42£º27] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º43£º17] Long callback execution detected (hang or performance issue)
+[03£º43£º17] AMX backtrace:
+[03£º43£º17] #0 00018364 in ?? (397324770, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º43£º17] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º43£º42] Long callback execution detected (hang or performance issue)
+[03£º43£º42] AMX backtrace:
+[03£º43£º42] #0 00018358 in ?? (838784693, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º43£º42] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º44£º07] Long callback execution detected (hang or performance issue)
+[03£º44£º07] AMX backtrace:
+[03£º44£º07] #0 000182f8 in ?? (2024) in racespeedtime.amx
+[03£º44£º07] #1 00018780 in ?? (2415, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º44£º07] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º44£º32] Long callback execution detected (hang or performance issue)
+[03£º44£º32] AMX backtrace:
+[03£º44£º32] #0 000182bc in ?? (1982) in racespeedtime.amx
+[03£º44£º32] #1 000183a8 in ?? (1343680516, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º44£º32] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º44£º57] Long callback execution detected (hang or performance issue)
+[03£º44£º57] AMX backtrace:
+[03£º44£º57] #0 000183a8 in ?? (839404685, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º44£º57] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º45£º47] Long callback execution detected (hang or performance issue)
+[03£º45£º47] AMX backtrace:
+[03£º45£º47] #0 0001837c in ?? (50169653, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º45£º47] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º47£º02] Long callback execution detected (hang or performance issue)
+[03£º47£º02] AMX backtrace:
+[03£º47£º02] #0 00018420 in ?? (965635085, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º47£º02] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º48£º17] Long callback execution detected (hang or performance issue)
+[03£º48£º17] AMX backtrace:
+[03£º48£º17] #0 00018320 in ?? (1978) in racespeedtime.amx
+[03£º48£º17] #1 000183a8 in ?? (1470063124, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º48£º17] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º49£º07] Long callback execution detected (hang or performance issue)
+[03£º49£º07] AMX backtrace:
+[03£º49£º07] #0 0001876c in ?? (1623, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º49£º07] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º49£º57] Long callback execution detected (hang or performance issue)
+[03£º49£º57] AMX backtrace:
+[03£º49£º57] #0 00018398 in ?? (1533219651, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[03£º49£º57] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[03£º50£º22] Long callback execution detected (hang or performance issue)
+[03£º50£º22] AMX backtrace:
+[03£º50£º22] #0 00018314 in ?? (1978) in racespeedtime.amx
+[03£º50£º22] #1 000183a8 in ?? (1470300747, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º50£º22] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[03£º53£º17] Long callback execution detected (hang or performance issue)
+[03£º53£º17] AMX backtrace:
+[03£º53£º17] #0 00018404 in ?? (429114698, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[03£º53£º17] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[07£º32£º19] Long callback execution detected (hang or performance issue)
+[07£º32£º19] AMX backtrace:
+[07£º32£º19] #0 00006780 in public OnPlayerUpdate (0) in racespeedtime.amx
+[08£º17£º53] Long callback execution detected (hang or performance issue)
+[08£º17£º53] AMX backtrace:
+[08£º17£º53] #0 000c0170 in public FIXES_OnPlayerUpdate (7) in racespeedtime.amx
+[08£º17£º53] #1 00006780 in public OnPlayerUpdate (7) in racespeedtime.amx
+[09£º25£º52] Long callback execution detected (hang or performance issue)
+[09£º25£º52] AMX backtrace:
+[09£º25£º52] #0 000060e8 in ?? (2047956, 2047928) in addobjects.amx
+[09£º25£º52] #1 00001e3c in ?? (2047956) in addobjects.amx
+[09£º25£º52] #2 000055a0 in public AddobjectsBegin () in addobjects.amx
+[09£º25£º52] #3 00000080 in public OnFilterScriptInit () in addobjects.amx
+[09£º26£º28] Long callback execution detected (hang or performance issue)
+[09£º26£º28] AMX backtrace:
+[09£º26£º28] #0 00003040 in ?? () in ls_apartments.amx
+[09£º26£º28] #1 000004c0 in public OnFilterScriptInit () in ls_apartments.amx
+[09£º26£º28] Long callback execution detected (hang or performance issue)
+[09£º26£º28] AMX backtrace:
+[09£º26£º28] #0 00000170 in ?? (6401, 1112014848, 1133508769, -993449238, 1102973684) in ls_beachside.amx
+[09£º26£º28] #1 00002380 in ?? (0) in ls_beachside.amx
+[09£º26£º28] #2 00001cb0 in ?? () in ls_beachside.amx
+[09£º26£º28] #3 0000035c in public OnFilterScriptInit () in ls_beachside.amx
+[09£º26£º28] Long callback execution detected (hang or performance issue)
+[09£º26£º28] AMX backtrace:
+[09£º26£º28] #0 0001a408 in ?? () in racespeedtime.amx
+[09£º26£º28] #1 000aaa38 in public SSCANF_OnGameModeInit () in racespeedtime.amx
+[09£º26£º28] #2 0000bfc0 in public FIXES_OnGameModeInit () in racespeedtime.amx
+[09£º26£º28] #3 00003618 in public OnGameModeInit () in racespeedtime.amx
+[11£º10£º39] Long callback execution detected (hang or performance issue)
+[11£º10£º39] AMX backtrace:
+[11£º10£º39] #0 0001829c in ?? (397146051, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[11£º10£º39] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[11£º11£º04] Long callback execution detected (hang or performance issue)
+[11£º11£º04] AMX backtrace:
+[11£º11£º04] #0 000183a0 in ?? (1724048823, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[11£º11£º04] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[11£º12£º44] Long callback execution detected (hang or performance issue)
+[11£º12£º44] AMX backtrace:
+[11£º12£º44] #0 00018394 in ?? (554829114, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[11£º12£º44] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[11£º13£º59] Long callback execution detected (hang or performance issue)
+[11£º13£º59] AMX backtrace:
+[11£º13£º59] #0 000183e4 in ?? (1469977914, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[11£º13£º59] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[11£º14£º24] Long callback execution detected (hang or performance issue)
+[11£º14£º24] AMX backtrace:
+[11£º14£º24] #0 00018314 in ?? (2000) in racespeedtime.amx
+[11£º14£º24] #1 000183a8 in ?? (775705240, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[11£º14£º24] #2 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[11£º14£º49] Long callback execution detected (hang or performance issue)
+[11£º14£º49] AMX backtrace:
+[11£º14£º49] #0 00018500 in ?? (13275665, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[11£º14£º49] #1 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[11£º15£º08] Long callback execution detected (hang or performance issue)
+[11£º15£º08] AMX backtrace:
+[11£º15£º08] #0 0000652c in public OnPlayerUpdate (0) in racespeedtime.amx
+[11£º15£º39] Long callback execution detected (hang or performance issue)
+[11£º15£º39] AMX backtrace:
+[11£º15£º39] #0 00018314 in ?? (2007) in racespeedtime.amx
+[11£º15£º39] #1 000183a8 in ?? (554913827, 72454284, 72454280, 72454276, 72454272, 72454268, 72454264, 8, 0) in racespeedtime.amx
+[11£º15£º39] #2 000a9dd0 in public update_Monument_Act () in racespeedtime.amx
+[11£º16£º54] Long callback execution detected (hang or performance issue)
+[11£º16£º54] AMX backtrace:
+[11£º16£º54] #0 00018400 in ?? (271097607, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[11£º16£º54] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
+[11£º17£º19] Long callback execution detected (hang or performance issue)
+[11£º17£º19] AMX backtrace:
+[11£º17£º19] #0 00018428 in ?? (681019130, 72454260, 72454256, 72454252, 72454248, 72454244, 72454240, 8, 0) in racespeedtime.amx
+[11£º17£º19] #1 000a9e2c in public update_Monument_Act () in racespeedtime.amx
